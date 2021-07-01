@@ -5,8 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Vianney",
   "license": "ISC",
   "keywords": [],
-  "description": "on bossing"
+  "description": "on bossing -",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
